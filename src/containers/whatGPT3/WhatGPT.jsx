@@ -2,7 +2,7 @@ import React from 'react'
 
 const WhatGPT = () => {
   return (
-    <div>WhatGPT</div>
+    <div id='wgpt3'>WhatGPT</div>
   )
 }
 
